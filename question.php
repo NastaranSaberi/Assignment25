@@ -98,7 +98,7 @@
                         <?php endforeach; ?>
 
 
-                        <button type="submit" class="btn btn-primary bd" >بعدی</button>
+                        <button type="submit" class="btn btn-primary mt-3" >بعدی</button>
                     </form>
                 </div>
             </div>
